@@ -1,4 +1,4 @@
-# Image Captioning with Attention Mechanism
+# Image Captioning Using Attention Mechanism
 
 This project is an implementation of image captioning using an attention mechanism. The model is trained on the Flickr8k dataset and achieves a BLEU score of 47. Image captioning is the task of generating natural language descriptions for images, making it a valuable component in applications like computer vision and assistive technologies.
 
